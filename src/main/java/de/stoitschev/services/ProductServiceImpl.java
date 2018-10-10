@@ -1,8 +1,8 @@
-package guru.springframework.services;
+package de.stoitschev.services;
 
-import guru.springframework.domain.Author;
-import guru.springframework.domain.Product;
-import guru.springframework.domain.ProductCategory;
+import de.stoitschev.domain.Author;
+import de.stoitschev.domain.Product;
+import de.stoitschev.domain.ProductCategory;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;

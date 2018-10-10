@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package de.stoitschev.domain;
 
 /**
  * Created by jt on 1/26/16.

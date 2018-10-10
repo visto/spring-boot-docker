@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package de.stoitschev.services;
 
-import guru.springframework.domain.Product;
+import de.stoitschev.domain.Product;
 
 import java.util.List;
 

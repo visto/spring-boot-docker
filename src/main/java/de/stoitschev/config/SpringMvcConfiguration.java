@@ -1,4 +1,4 @@
-package guru.springframework.config;
+package de.stoitschev.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

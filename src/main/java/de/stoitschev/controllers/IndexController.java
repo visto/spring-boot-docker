@@ -1,6 +1,6 @@
-package guru.springframework.controllers;
+package de.stoitschev.controllers;
 
-import guru.springframework.services.ProductService;
+import de.stoitschev.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
