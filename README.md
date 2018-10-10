@@ -1,5 +1,5 @@
 #Spring Boot and Docker
 
-Source code in this repo is to support my on line course for Docker and Spring Boot. 
-
-You can learn more about my course [here](http://courses.springframework.guru).
+This is a fork of springframeworkguru/spring-boot-docker.
+This is a sample spring boot project which is embedded via maven to a docker image. 
+I fixed some things in the original Dockerfile and the pom.xml so this would run again as the original project does not.
